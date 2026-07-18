@@ -8,9 +8,9 @@ Projects here provide the plumbing that makes old software and hardware runnable
 
 | Repo | What it does |
 | --- | --- |
-| [`virtio-dos`](https://github.com/ferroteca/virtio-dos) | virtio drivers for DOS VM guests — modern storage/network I/O instead of legacy emulated hardware |
-| [`quemados`](https://github.com/ferroteca/quemados) | DOS-under-QEMU automation harness — boots, drives, and controls DOS guests programmatically |
+| [`relict`](https://github.com/ferroteca/quemados) | QEMU guest automation harness — boots, drives, and controls guest VMs programmatically |
 | [`testaferro`](https://github.com/ferroteca/testaferro) | A pytest facade for VM guest-executed unit testing |
+| [`virtio-dos`](https://github.com/ferroteca/virtio-dos) | virtio drivers for DOS VM guests — modern storage/network I/O instead of legacy emulated hardware |
 
 ## License
 
