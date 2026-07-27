@@ -9,6 +9,7 @@ Projects here provide the plumbing that makes old software and hardware runnable
 | Repo | What it does |
 | --- | --- |
 | [`reliquary`](https://github.com/ferroteca/reliquary) | Python guest VM automation — scripts OS installations and produces bootable disk images without manual interaction |
+| [`testaferro`](https://github.com/ferroteca/testaferro) | Run units tests in a guest VM and surface them as a pytest suite on the host |
 
 ## License
 
